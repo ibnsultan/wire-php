@@ -22,7 +22,7 @@ This package is heavily aligned with the Pusher PHP server SDK and is intended t
 ## Installation
 
 ```bash
-composer require friendlylabs/wire-php-sdk
+composer require wireblob/wire
 ```
 
 ## Quick start
